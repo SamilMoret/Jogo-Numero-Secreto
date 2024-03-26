@@ -4,7 +4,7 @@
 <img src=https://github.com/SamilMoret/jogo-numero-secreto/blob/main/img/image_tela.png>
 </p>
 
-<h2>Tecnologias uitilizadas:</h2>
+<h2>Tecnologias utilizadas:</h2>
 <p>* HTML</p>
 <p>* CSS </p>
 <p>* JAVASCRIPT </p>
